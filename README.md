@@ -1,6 +1,9 @@
 # Explonatory-Data-Analysis-using-Ecommerce-dataset
 The EDA of this e-commerce dataset analyzes 541,909 records with 8 attributes, including invoices, products, prices, and customer locations. Missing values in CustomerID and Description suggest guest checkouts. We’ll explore purchase trends, price variations, and customer segmentation using visualizations to uncover patterns for future analysis.
+<br>
+<br>
 The dataset is hosted externally.Check it Out (https://raw.githubusercontent.com/gujjaripavan222/Explonatory-Data-Analysis-using-Ecommerce-dataset/refs/heads/main/data.csv)
+<br>
 <br>
 This code is a comprehensive data analysis pipeline, ready to be used in real-world business intelligence. It gives insights into customer behavior, sales trends, and country-wise performance. I covered data ingestion, cleaning, transformation, analysis, and visualization — a full-cycle EDA!
 
